@@ -18,7 +18,7 @@ Welcome to the Random RGB Color Generator WebApp! This simple yet powerful JavaS
 
 ## Installation
 
-No installation is required! Simply open the [Random RGB Color Generator WebApp](#) in your browser, and start generating vibrant colors.
+No installation is required! Simply open the [Random RGB Color Generator WebApp](https://raviranjan940.github.io/Random-Color-Generator/) in your browser, and start generating vibrant colors.
 
 ## Contributing
 
