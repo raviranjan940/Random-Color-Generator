@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.container{
+  width: 50%;
+  height: 25rem;
+  box-shadow: 1px 1px 10px 1px;
+  margin-top: 10rem;
+}
+
+.h3 {
+  font-size: 22px;
+}
+
+.button {
+  padding: 10px;
+  margin: 20px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.div-2 {
+  border: 1px solid black;
+  height: 10rem;
+  margin: 20px;
+  color: white;
+
+}
