@@ -7,27 +7,29 @@ body {
 
 .container{
   width: 50%;
-  height: 25rem;
+  height: 28rem;
   box-shadow: 1px 1px 10px 1px;
-  margin-top: 10rem;
+  margin: 8rem;
 }
 
 .h3 {
-  font-size: 22px;
+  font-size: 20px;
 }
 
 .button {
-  padding: 10px;
-  margin: 20px;
+  padding: 5px;
+  margin: 15px;
   font-size: 15px;
   font-weight: 600;
   cursor: pointer;
 }
 
 .div-2 {
-  border: 1px solid black;
+  border: 2px solid black;
   height: 10rem;
   margin: 20px;
-  color: white;
+  margin-top: 40px ;
+  font-weight: 600;
+  color: black;
 
 }
